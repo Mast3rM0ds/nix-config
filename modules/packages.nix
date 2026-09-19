@@ -33,6 +33,11 @@
     modrinth-app
     vesktop
     lunar-client # im testing out lunar instead of modrinth app dunno..
+    distrobox
+    gnome-calculator
+    gnome-calendar
+    gnome-disk-utility
+    gnome-text-editor
 
     # theming
     matugen
