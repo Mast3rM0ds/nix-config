@@ -60,7 +60,7 @@ mainbox {
 imagebox {
     padding:                     20px;
     background-color:            transparent;
-    background-image:            url("~/Wallpapers/Drache-Animiert.gif", height);
+    background-image:            url("~/Wallpapers/gruvbox-mountain-village.png", height);
     orientation:                 vertical;
     children:                    [ "inputbar", "dummy", "mode-switcher" ];
 }

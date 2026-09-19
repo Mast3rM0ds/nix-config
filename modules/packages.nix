@@ -32,6 +32,7 @@
     obs-studio
     modrinth-app
     vesktop
+    lunar-client # im testing out lunar instead of modrinth app dunno..
 
     # theming
     matugen
