@@ -22,12 +22,12 @@ configuration {
 /*****----- Global Properties -----*****/
 * {
     font:                        "JetBrains Mono Nerd Font 10";
-    background:                  #1a120d;
-    background-alt:              #1a120d;
-    foreground:                  #f0dfd7;
-    selected:                    #ffb68d;
-    active:                      #e6beaa;
-    urgent:                      #cdc991;
+    background:                  #11140e;
+    background-alt:              #11140e;
+    foreground:                  #e1e4d9;
+    selected:                    #aad291;
+    active:                      #bdcbb0;
+    urgent:                      #a0cfcf;
 }
 
 /*****----- Main Window -----*****/
