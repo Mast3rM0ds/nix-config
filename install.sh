@@ -2,7 +2,7 @@
 set -euo pipefail
 
 HOST="${1:-nixos}"
-REPO_URL="${REPO_URL:-https://github.com/YOURUSER/nix-config.git}"
+REPO_URL="${REPO_URL:-https://github.com/Mast3rM0ds/nix-config}"
 DEST="$HOME/nix-config"
 
 if [ "$(id -u)" -eq 0 ]; then
