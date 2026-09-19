@@ -20,12 +20,12 @@
     shellAliases = {
       rebuild = "git -C ~/nix-config add -A && nh os switch";
       update = "git -C ~/nix-config add -A && nh os switch -u";
-      ls = "eza --icons";
+      ls = "eza --icons=always";
     };
 
     initContent = ''
       function cd {
-        builtin cd "$@" && ls
+        builtin cd "$@" && eza --icons=always
       }
       pfetch
     '';
