@@ -43,7 +43,7 @@
     mpv
     ffmpeg
     obs-studio
-    modrinth-app
+    #modrinth-app
     vesktop
     lunar-client # im testing out lunar instead of modrinth app dunno..
     distrobox
